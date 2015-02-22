@@ -16,6 +16,7 @@
     "url": "https://github.com/tinchoforever/palabras/issues"
   },
   "dependencies": {
-    "google-feed-api": "0.0.2"
+    "google-feed-api": "0.0.2",
+    "twitter": "~1.2.1"
   }
 }
